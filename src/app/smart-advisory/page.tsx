@@ -2,8 +2,8 @@ export default function SmartAdvisory() {
   return (
     <div className="container mx-auto px-4 py-12">
       <div className="max-w-3xl mx-auto">
-        <h1 className="text-4xl font-bold text-green-800 mb-6 text-center">Smart Farming Advisory</h1>
-        <p className="text-lg text-gray-600 mb-10 text-center">
+        <h1 className="text-3xl md:text-4xl font-bold text-green-800 mb-6 text-center">Smart Farming Advisory</h1>
+        <p className="text-base md:text-lg text-gray-600 mb-10 text-center">
           Get personalized recommendations for your farm based on soil health, weather forecasts, and crop stage.
         </p>
 

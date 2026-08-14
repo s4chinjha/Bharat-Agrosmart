@@ -16,10 +16,10 @@ export default function Home() {
           />
         </div>
         <div className="container mx-auto px-4 text-center relative z-10">
-          <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
-            Empowering Indian Agriculture <br/> with <span className="text-green-400">Artificial Intelligence</span>
+          <h1 className="text-3xl sm:text-4xl md:text-6xl font-bold mb-6 leading-tight">
+            Empowering Indian Agriculture <br className="hidden sm:inline" /> with <span className="text-green-400">Artificial Intelligence</span>
           </h1>
-          <p className="text-xl md:text-2xl text-gray-200 mb-10 max-w-3xl mx-auto">
+          <p className="text-lg sm:text-xl md:text-2xl text-gray-200 mb-10 max-w-3xl mx-auto">
             Revolutionizing farming with real-time disease detection, market insights, and personalized advisory services.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">

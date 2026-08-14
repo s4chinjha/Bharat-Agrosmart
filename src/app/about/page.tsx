@@ -4,7 +4,7 @@ export default function About() {
   return (
     <div className="container mx-auto px-4 py-12">
       <div className="max-w-4xl mx-auto">
-        <h1 className="text-4xl font-bold text-green-800 mb-8 text-center">About Bharat Agrosmart</h1>
+        <h1 className="text-3xl md:text-4xl font-bold text-green-800 mb-8 text-center">About Bharat Agrosmart</h1>
         
         <div className="bg-white rounded-2xl shadow-lg overflow-hidden mb-12">
           <div className="h-64 relative">

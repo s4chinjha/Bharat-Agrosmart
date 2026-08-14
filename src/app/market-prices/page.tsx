@@ -13,8 +13,8 @@ export default function MarketPrices() {
   return (
     <div className="container mx-auto px-4 py-12">
       <div className="max-w-5xl mx-auto">
-        <h1 className="text-4xl font-bold text-green-800 mb-6 text-center">Real-time Market Prices</h1>
-        <p className="text-lg text-gray-600 mb-10 text-center">
+        <h1 className="text-3xl md:text-4xl font-bold text-green-800 mb-6 text-center">Real-time Market Prices</h1>
+        <p className="text-base md:text-lg text-gray-600 mb-10 text-center">
           Stay updated with the latest Mandi prices across India to make informed selling decisions.
         </p>
 
